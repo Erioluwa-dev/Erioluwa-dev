@@ -9,16 +9,6 @@ The first step to greatness is taking action
 
 I help maintain and build scalable software.
 ```
-
-| project | what |
-|---------|------|
-| **Todo App** | Basic todo app that  taught me CRUD operations and interfaces |
-| **YEMS (private) ** | Offline-first school management system |
-
-```
-17 year old . open to collaborations
-```
-
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=git,nextjs,nuxtjs)](https://skillicons.dev)
@@ -27,6 +17,18 @@ I help maintain and build scalable software.
 
 
 </div>
+
+
+| project | what |
+|---------|------|
+| **Todo App** | Basic todo app that  taught me CRUD operations and interfaces |
+| YEMS (private) | Offline-first school management system |
+
+```
+17 year old . open to collaborations
+```
+
+
 
 ---
 
