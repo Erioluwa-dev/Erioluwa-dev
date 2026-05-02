@@ -1,11 +1,4 @@
-<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=git,nextjs,nuxtjs)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=dart,figma,react)](https://skillicons.dev)
-
-
-</div>
 
 ---
 
@@ -25,6 +18,15 @@ I help maintain and build scalable software.
 ```
 17 year old . open to collaborations
 ```
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=git,nextjs,nuxtjs)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=dart,figma,react)](https://skillicons.dev)
+
+
+</div>
 
 ---
 
