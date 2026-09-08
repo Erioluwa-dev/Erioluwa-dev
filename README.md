@@ -75,10 +75,7 @@
 
 ## Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Erioluwa-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Erioluwa-dev's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erioluwa-dev&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erioluwa-dev&hide_border=true&theme=tokyonight" alt="GitHub streak" />
