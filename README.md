@@ -5,7 +5,6 @@
 ```
 > loading persona...
 > name: Fawehinmi Erioluwa
-> age: 17
 > role: Frontend Engineer (+ backend instincts)
 > status: self-learning // always
 > open_to: collaborations = true
