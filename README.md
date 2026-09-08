@@ -71,7 +71,6 @@
 ---
 
 ## Contact
-
-**17 · open to collabs · self-taught**
+open to collabs · self-taught**
 
 📧 [erioluwafawehinmi@gmail.com](mailto:erioluwafawehinmi@gmail.com)
