@@ -1,26 +1,14 @@
 # Fawehinmi Erioluwa
 
-> *The first step to greatness is taking action*
-
-```
-> loading persona...
-> name: Fawehinmi Erioluwa
-> role: Product Engineer (frontend-first, backend-capable)
-> focus: AI products // agentic systems
-> status: self-learning // always
-> open_to: collaborations = true
-> ready.
-```
+Product Engineer (frontend-first, backend-capable). Building AI products and agentic systems.
 
 ---
 
-## Operating Modes
+## Focus
 
-| Mode | Description |
-|------|-------------|
-| 🖥️ **Solo** | Self-directed. Deep work. No blockers, just shipping. |
-| 🤝 **Collab** | Open to contributions, clear communicator, async-friendly. |
-| 🤖 **AI/ML** | Building at the intersection of UI and intelligence — agents, recommendations, model-aware UX. |
+- Product engineering across frontend and backend, leaning AI/agentic systems
+- Self-directed, deep-work oriented
+- Open to collaboration — clear communicator, async-friendly
 
 ---
 
@@ -45,18 +33,17 @@
 ## Projects
 
 ### Translation Tool
-> Next.js + TypeScript monorepo. Source/target language selection, live translation,
-> copy-to-clipboard and text-to-speech on the output.
+Next.js + TypeScript monorepo. Source/target language selection, live translation, copy-to-clipboard and text-to-speech on the output.
 
 `Public`
 
 ### YEMS
-> Offline-first school management system. Real constraints, real solutions.
+Offline-first school management system. Real constraints, real solutions.
 
 `Private`
 
 ### Todo App
-> CRUD fundamentals. Where it started.
+CRUD fundamentals. Where it started.
 
 `Public`
 
@@ -64,18 +51,16 @@
 
 ## About
 
-- 🧠 Self-taught discipline
-- 🎯 Products that solve real problems — think first, then build
-- 📦 Full ownership over everything I build
-- 📄 Readable code first, always
-- 🔌 Offline-first thinking
-- 🤖 Model-aware design & prompt engineering
+- Self-taught discipline
+- Products that solve real problems — think first, then build
+- Full ownership over everything I build
+- Readable code first, always
+- Offline-first thinking
+- Model-aware design and prompt engineering
 
 ---
 
 ## Stats
-
-
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erioluwa-dev&hide_border=true&theme=tokyonight" alt="GitHub streak" />
@@ -85,6 +70,6 @@
 
 ## Contact
 
-Open to collabs · self-taught
+Open to collaboration · self-taught
 
-📧 [erioluwafawehinmi@gmail.com](mailto:erioluwafawehinmi@gmail.com)
+[erioluwafawehinmi@gmail.com](mailto:erioluwafawehinmi@gmail.com)
