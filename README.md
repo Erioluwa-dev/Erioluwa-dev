@@ -1,75 +1,61 @@
 # Fawehinmi Erioluwa
 
-Product Engineer (frontend-first, backend-capable). Building AI products and agentic systems.
+**Product Engineer** building AI products and agentic systems. Frontend-first, backend-capable, design-literate.
+
+Right now I'm helping turn **Flyaux** from a traditional flight-booking site into an **agent-first travel platform**, and doing product & experience design plus frontend work at **ByteBuzz Interactive**. I'm also starting Computer Science at **UNILAG**.
+
+[eri.varityweb.com](https://eri.varityweb.com/) · [erioluwafawehinmi@gmail.com](mailto:erioluwafawehinmi@gmail.com)
 
 ---
 
-## Focus
+## What I do
 
-- Product engineering across frontend and backend, leaning AI/agentic systems
-- Self-directed, deep-work oriented
-- Open to collaboration — clear communicator, async-friendly
-
----
-
-## Technologies Used
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter%2FDart-54C5F8?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- **Agentic products** — designing flows where AI agents do the work, not just answer questions
+- **Product engineering** — taking ideas from Figma to production across frontend and backend
+- **Applied AI & computer vision** — model-aware design, prompt engineering, and real-world ML pipelines
+- **Systems that hold up** — offline-first thinking, readable code, full ownership end to end
 
 ---
 
-## Projects
+## Tech stack
 
-### Translation Tool
-Next.js + TypeScript monorepo. Source/target language selection, live translation, copy-to-clipboard and text-to-speech on the output.
+**Languages**
 
-`Public`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,py,dart&perline=10" alt="Languages" />
+</p>
 
-### YEMS
-Offline-first school management system. Real constraints, real solutions.
+**Frontend & mobile**
 
-`Private`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,tailwind,flutter&perline=10" alt="Frontend" />
+</p>
 
-### Todo App
-CRUD fundamentals. Where it started.
+**Backend & data**
 
-`Public`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,mongodb&perline=10" alt="Backend" />
+</p>
+
+**Tools & design**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=10" alt="Tools" />
+</p>
 
 ---
 
-## About
+## How I work
 
-- Self-taught discipline
-- Products that solve real problems — think first, then build
-- Full ownership over everything I build
-- Readable code first, always
-- Offline-first thinking
-- Model-aware design and prompt engineering
+- Think first, then build — products should solve real problems
+- Readable code over clever code
+- Design and engineering are one job, not two
+- Async-friendly, clear communicator, open to collaboration
 
 ---
 
 ## Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erioluwa-dev&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
-
----
-
-## Contact
-
-Open to collaboration · self-taught
-
-[erioluwafawehinmi@gmail.com](mailto:erioluwafawehinmi@gmail.com)
